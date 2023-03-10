@@ -1,0 +1,17 @@
+Click on the data and go to option "Cell Element", from here you can do conditional formatting
+
+
+In Power BI, you can do conditional formatting on your data to highlight specific values or patterns in your report. Here's how to do it using the "Cell Element" option:
+
+-> Open your report in Power BI and navigate to the visualization section.
+-> Find the visual that you want to apply conditional formatting to and click on the data points that you want to format.
+-> From the "Visualizations" pane on the right-hand side, click on the "Format" icon (paint roller).
+-> In the "Visualizations" pane, expand the "Data colors" section.
+-> Click on the "Cell Color" option to open the formatting options.
+-> In the "Color by rules" section, click on the "Add" button to add a new rule.
+-> From the "Format by" dropdown menu, select the column that you want to use to apply the formatting rules.
+-> From the "Background color" dropdown menu, select the color that you want to use to format the data points.
+-> Set the conditions for the formatting rule by selecting the appropriate operators and values.
+-> Click on "Apply" to apply the formatting rule to the selected data points.
+
+By using the "Cell Element" option, you can apply conditional formatting to specific data points in your report, based on rules that you define. This can help to highlight important information or make it easier to spot trends or patterns in your data.

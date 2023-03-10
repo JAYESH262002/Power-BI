@@ -1,0 +1,7 @@
+-> Open your report in Power BI and navigate to the visualization section.
+-> Find the Fields pane and expand the Columns section.
+-> Look for the name of the data used in a visual in the Columns section.
+-> Beside the field name, you will see an up-side arrow symbol.
+-> Click on the up-side arrow symbol to open the aggregation options for that field.
+-> Select an aggregation option that is most suitable for your analysis.
+-> The data in the visual will be updated according to the selected aggregation option.

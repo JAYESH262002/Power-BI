@@ -1,0 +1,3 @@
+Press Ctrl +  CLick on the Data on which you want to include or exclude and then Right Click we will be given the option of Include and Exclude.
+
+in short it is used to fulter the value visualy from the screen.

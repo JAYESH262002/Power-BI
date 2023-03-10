@@ -1,0 +1,1 @@
+First Click on the map, then go to visualization and then to format option. Here we will get the OPtion as "Map Setting", from here we can chnage the theme of the Map

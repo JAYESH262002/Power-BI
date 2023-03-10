@@ -1,0 +1,2 @@
+Click the data which you want to View, and then Right Click on it we will get get option as "Show Data Point as Table".
+Click on it, and we will be able to get the data as table. We can also export that data from here.
