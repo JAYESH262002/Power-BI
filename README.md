@@ -1,4 +1,4 @@
-# Power-BI
+# PowerBI
 
 Sure, here's a more detailed list of tips for using different charts and features in Power BI:
 
